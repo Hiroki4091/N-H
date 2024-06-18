@@ -1,2 +1,2 @@
-.comment{color:red}
+.comment{color:red;-webkit-text-decoration:dashed 3px red;text-decoration:dashed 3px red}
 /*# sourceMappingURL=style.min.css.map */

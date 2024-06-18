@@ -1,4 +1,6 @@
 .comment {
   color: red;
+  -webkit-text-decoration: dashed 3px red;
+          text-decoration: dashed 3px red;
 }
 /*# sourceMappingURL=style.css.map */
